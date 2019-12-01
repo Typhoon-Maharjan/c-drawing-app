@@ -131,6 +131,7 @@ namespace DrawWithCommandline
             cboSize.Enabled = true;
         }
 
+	// circle icon to draw circle
         private void btnCircle_Click(object sender, EventArgs e)
         {
             active = "circle";
